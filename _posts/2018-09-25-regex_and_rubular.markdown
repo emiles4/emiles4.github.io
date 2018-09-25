@@ -14,7 +14,7 @@ A Regular Expression (regex or regexp) is a tool that can be used in almost all 
 
 For example, if you need to search a set of data for the single numerical character "5", your regex looks like this:
 
-[5]
+/[5]/
 
 If you want to match a username, the below is one way you could do that:
 
