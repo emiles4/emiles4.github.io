@@ -1,15 +1,14 @@
 # Site settings
-title: Emily Miles,  Developing Developer
+author: Emily Miles
+title: Emily Miles, Web Developer in Training
 header-img: img/home-bg.png
 email: emiles4@gmail.com
-copyright_name: emiles4
+copyright_name: Emily Miles
 description: > # this means to ignore newlines until "baseurl:"
-  This is going to be fun!
+  Always learning, growing, adapting
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  emiles4
-learn_profile: emiles4
-email_username: emiles4@gmail.com
 
 # Build settings
 markdown: kramdown
